@@ -26,7 +26,7 @@ This is my portfolio website built using HTML, CSS, and JavaScript. It features 
 ## Credits
 
 - ScrollReveal library: [ScrollReveal](https://scrollrevealjs.org/)
-- Iconscout - for icons [https://iconscout.com/unicons]
+- Iconscout - for icons https://iconscout.com/unicons
 
 ## Author
 
